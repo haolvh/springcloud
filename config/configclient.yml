@@ -3,7 +3,7 @@ server:
 eurake:
   client:
     serviceUrl:
-      defalutZone: http://localhost:8761/eureke/
+      defalutZone: http://localhost:8761/eureka/
 spring:
   application:
     name: configclient
